@@ -1,5 +1,5 @@
 {
-	"name": "webdevstudios/cmb2",
+    "name": "webdevstudios/cmb2",
     "description": "Select2 field type for Custom Metaboxes and Fields for WordPress.",
     "version": "0.1",
     "keywords": ["wordpress", "plugin", "metabox","select2"],
@@ -7,6 +7,6 @@
     "type"    : "wordpress-plugin",
     "require" : {
         "composer/installers" : "~1.0",
-        "php": ">5.2.4",
+        "php": ">5.2.4"
     }
 }
